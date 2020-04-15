@@ -1,0 +1,6 @@
+Guessing Game:
+1. assign a number to a variable.
+2. assign  a wrong guess to a variable to set condition
+to begin while loop
+3. set while loop condition to != correct guess.
+4. assign guess input to new variable
